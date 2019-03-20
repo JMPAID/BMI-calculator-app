@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1092042544173",
+    "firebase_url": "https://bmi-app-37100.firebaseio.com",
+    "project_id": "bmi-app-37100",
+    "storage_bucket": "bmi-app-37100.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092042544173:android:3e987f07a0cab6de",
+        "android_client_info": {
+          "package_name": "jhonmarkpaid.com.bmi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092042544173-imnp9u99032eh0tc820pin003dnqkf4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfvD5FPKJIT7gyCeWwzRMGSj9Y54dpkT0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
